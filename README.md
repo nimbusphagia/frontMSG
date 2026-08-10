@@ -1,6 +1,6 @@
 # Mailbox
 
-A messaging web app — direct messages, group chats, contacts, and more.
+Messaging app with direct messages, group chats, contacts, and more.
 
 🔗 **Live app:** [mailbox-xi.vercel.app](https://mailbox-xi.vercel.app)
 
@@ -35,7 +35,7 @@ Backend repo: [MailboxAPI](https://github.com/nimbusphagia/MailboxAPI)
 
 Mailbox is fully deployed — no local setup is required. Just visit the live app and sign up to start messaging:
 
-👉 [mailbox-xi.vercel.app](https://mailbox-xi.vercel.app)
+[mailbox-xi.vercel.app](https://mailbox-xi.vercel.app)
 
 ## Architecture
 
